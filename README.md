@@ -33,7 +33,7 @@ The following screenshot shows the EC2 instances configured for the project:
 
 #### Jenkins Setup
 Jenkins running successfully on a Linux server:
-![Jenkins Setup](images/jenkins-setup.png)
+![Jenkins Setup](https://github.com/chinni203/devops/blob/main/jenkins%20dashboard.png)
 
 #### Docker Image
 A custom Docker image created for deployment:
