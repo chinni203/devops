@@ -17,12 +17,11 @@ This project demonstrates the integration of various tools and technologies in a
 
 ---
 
-### *Architecture*
-Here’s a high-level view of the workflow:
+### *Docker image*
 
-![Architecture Diagram](images/architecture-diagram.png)
 
-The architecture demonstrates the interaction between AWS EC2, Jenkins, Docker, and Terraform to automate deployments.
+![docker image](images/architecture-diagram.png)
+
 
 ---
 
