@@ -20,7 +20,7 @@ This project demonstrates the integration of various tools and technologies in a
 ### *Docker image*
 
 
-![docker image](images/architecture-diagram.png)
+![docker image](https://github.com/chinni203/devops/blob/main/docker%20image.png)
 
 
 ---
