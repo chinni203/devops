@@ -37,8 +37,8 @@ Jenkins running successfully on a Linux server:
 
 #### Docker Image
 A custom Docker image created for deployment:
-![Docker Image](images/docker-image.png)
-
+[![Docker Image](images/docker-image.png)
+](https://github.com/chinni203/devops/blob/main/docker%20image.png)
 ---
 
 ### *Technologies Used*
